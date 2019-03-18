@@ -1,0 +1,3 @@
+For sequential, time is 0m0.028s;
+For b, time is 0m0.073s;
+For OpenMP reduction, time is 0m0.069s;

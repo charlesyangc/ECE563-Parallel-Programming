@@ -1,0 +1,6 @@
+Time of static scheduling with a default block size: 0.006961
+Time of static scheduling with block size of 50: 0.007637
+Time of dynamic scheduling with default block size: 0.011437
+Time of dynamic scheduling with block size of 50: 0.007262
+
+From above result, it seems static scheduling with a default block size take the least elapsed time. Probably because this way the overhead is the smallest.

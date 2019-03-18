@@ -1,0 +1,3 @@
+cd $PBS_O_WORKDIR
+export OMP_NUM_THREADS=20
+./hw3_a

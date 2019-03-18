@@ -1,0 +1,5 @@
+For code a, because we make tid private. In each thread, variable tid is stored in thread local stack. Thus, the tid’s address is unique for each thread. Meanwhile, before the parallel for, a variable tid is defined and stored in global stack. Thus, after parallel for, the address for tid will be the same as before the parallel for.
+
+For code b, the variable tid is defined in parallel for. Thus it is stored in thread local stack. Thus, different thread will have tid in a unique address. Thus, the printed tid address is different for every thread, and there must be different thread for each iteration i.
+
+For code c, the variable tid is defined before parallel for. Thus, it is stored in global stack. Thus, the address of tid is shared among threads. Thus, the printed tid address are same for all thread. And tid can be the same for different i.

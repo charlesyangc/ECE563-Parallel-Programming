@@ -1,0 +1,11 @@
+#!/bin/sh -l
+# FILENAME:  hw7_1.sub
+
+#PBS -l nodes=2:ppn=20,walltime=00:01:00
+#PBS -q long
+
+cd $PBS_O_WORKDIR
+
+module load rcac
+
+mpiexec -n 40 ./hw7_1

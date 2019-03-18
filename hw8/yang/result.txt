@@ -1,0 +1,9 @@
+1, Using MPI collective communication, and run 5 loop then take the average: 
+While with array of size 10,000, the average time using 16 processors is 0.000013 s.
+While with array of size 100,000, the average time is 0.000059 s.
+While with array of size 1,000,000, the average time is 0.001172 s.
+
+2, Using using send/recv that forms a fan-in tree, and run 5 loop then take the average: 
+While with array of size 10,000, average time is 0.000019 s.
+While with array of size 100,000, average time is 0.000144 s.
+While with array of size 1,000,000, average time is 0.000495 s.

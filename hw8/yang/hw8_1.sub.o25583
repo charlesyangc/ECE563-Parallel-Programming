@@ -1,0 +1,13 @@
+t = 1000000 
+for loop 0, time is 0.001309 
+t = 1000000 
+for loop 1, time is 0.001172 
+t = 1000000 
+for loop 2, time is 0.001172 
+t = 1000000 
+for loop 3, time is 0.001165 
+t = 1000000 
+for loop 4, time is 0.001168 
+t = 1000000 
+for loop 5, time is 0.001184 
+averagetime = 0.001172

@@ -1,0 +1,28 @@
+t = 10000 
+for loop 0, time is 0.000105 
+t = 10000 
+for loop 1, time is 0.000012 
+t = 10000 
+for loop 2, time is 0.000013 
+t = 10000 
+for loop 3, time is 0.000013 
+t = 10000 
+for loop 4, time is 0.000012 
+t = 10000 
+for loop 5, time is 0.000015 
+averagetime = 0.000000
+averagetime = 0.000000
+averagetime = 0.000000
+averagetime = 0.000000
+averagetime = 0.000000
+averagetime = 0.000000
+averagetime = 0.000000
+averagetime = 0.000000
+averagetime = 0.000013
+averagetime = 0.000000
+averagetime = 0.000000
+averagetime = 0.000000
+averagetime = 0.000000
+averagetime = 0.000000
+averagetime = 0.000000
+averagetime = 0.000000

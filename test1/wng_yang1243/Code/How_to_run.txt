@@ -1,0 +1,25 @@
+For task 1:
+compile with:
+mpicc task1.c -o task1 -lm
+Then run with:
+qsub task1.sub
+
+
+For task 2:
+compile with:
+mpicc task2.c -o task2 -lm
+Then run with:
+qsub task2.sub
+
+
+For task 3:
+compile with:
+icc -mkl task3.c -o task3
+Then run with:
+qsub task3.sub
+
+
+Run together:
+first compile three source code
+Then run with:
+qsub -l walltime=00:10:00 task_all.sub

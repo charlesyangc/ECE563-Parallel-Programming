@@ -1,0 +1,2 @@
+Using 5 sections to do the work, the elapsed time is 70.005456 s.
+While using sequential to do the work, the elapsed time is 194.004196 s

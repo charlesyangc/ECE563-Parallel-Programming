@@ -1,0 +1,2 @@
+doing this in parallel, the time is 0.106 s
+Doing this in sequential, the time is 0.02 s

@@ -1,0 +1,1 @@
+After quadruple the number of threads, the time becomes 0.065256 s. Thus, the loop runs faster.

@@ -1,0 +1,2 @@
+In part 4, using sequential, elapsed time is 0.000215
+While using parallel, elapsed time is 0.008509
